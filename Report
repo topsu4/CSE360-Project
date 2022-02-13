@@ -1,0 +1,25 @@
+//**Team Member Names**
+//John Gruetzmacher
+//
+//
+//
+//
+
+//**Context Description**
+//Create a restaurant app that allows users order a variety of food online, view a full menu, enter and save payment info in app, and recieve special coupons for frequent use.
+
+//**Requirements Description**
+//Easy to use
+//Order food online
+//View full menu
+//Search for a dish
+//Lists selected items
+//Can add/remove items from list
+//Gives total price
+//Enter payment info
+//View the queue system
+//Give an expected time
+//Create an account
+//Save payment/contact info
+//Give coupons to frequent users
+//Restaurant can drop certain items from menu
